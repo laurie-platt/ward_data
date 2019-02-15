@@ -1,6 +1,6 @@
 | Name | Description | Data type | Value constraints |   Example(s) |
 |:--|:--|:--|:--|:--|
-| area_code | ONS code for the electoral ward  | String | Electoral wards in Trafford | E05000825 |
+| area_code | ONS code for the electoral ward  | String | Electoral wards in Sheffield | E08000019 |
 | area_name | ONS name for the electoral ward | String | Electoral wards in Trafford | Clifford |
 | indicator | Concise description of dataset | string | No reference to measure | Detached houses | 
 | period | The period of time the data refer to | String | Date: YYYY-MM or YYYY-MM-DD |  2019-01 or 2018-12-31 |
